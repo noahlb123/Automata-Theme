@@ -1,0 +1,43 @@
+{
+   "description": "Theme based on Steven Wolfram's Elementary Cellular Automata",
+   "manifest_version": 2,
+   "name": "Elementary Cellular Automata",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "frame": [ 27, 27, 27 ],
+         "nt_header": [ 255, 255, 255 ],
+         "ntp_background": [ 15, 17, 18 ],
+         "ntp_link": [ 255, 255, 255 ],
+         "ntp_section": [ 35, 35, 35 ],
+         "ntp_section_link": [ 255, 255, 255 ],
+         "ntp_section_text": [ 255, 255, 255 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "theme_frame": [9, 21, 23],
+         "theme_tab_background": [32, 35, 38],
+         "toolbar": [ 17, 18, 19 ]
+      },
+      "images": {
+         "theme_button_background": "images/theme_button_background.png",
+         "theme_ntp_background": "images/image.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_frame": "images/Frame.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "top left",
+         "ntp_background_repeat": "no-repeat",
+         "ntp_logo_alternate": 0
+      },
+      "tints": {
+         "background_tab": [ -1, 0.5, 0.75 ],
+         "buttons": [ 255, 255, 255 ],
+         "frame_inactive": [ -1, -1, 0.75 ],
+         "frame_incognito": [ -1, 0.2, 0.35 ],
+         "frame_incognito_inactive": [ 1, 1, 1 ]
+      }
+   },
+   "version": "1.0"
+}
