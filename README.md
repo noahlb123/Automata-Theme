@@ -2,6 +2,7 @@
 Chrome theme based on Elementary Cellular Automata
 Uses manifest.json framework
 
+
 Instalation-
 
 download as local repo
